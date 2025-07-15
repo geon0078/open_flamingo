@@ -1,0 +1,11 @@
+# OpenFlamingo 이미지 질문-답변 데모를 위한 필수 패키지
+torch>=1.13.0
+torchvision>=0.14.0
+torchaudio>=0.13.0
+open-flamingo>=2.0.0
+huggingface-hub>=0.14.0
+transformers>=4.21.0
+requests>=2.28.0
+Pillow>=9.0.0
+matplotlib>=3.5.0
+numpy>=1.21.0
